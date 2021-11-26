@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 file 3 version 2
-=======
+
 hii
 file 3 version 1.1.1
->>>>>>> version_1
+
